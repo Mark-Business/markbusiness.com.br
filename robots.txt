@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+Allow: /planos-e-servicos
+Allow: /faq
+Allow: /sobre
